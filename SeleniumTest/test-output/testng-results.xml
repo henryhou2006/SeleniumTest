@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2017-11-06T08:55:23Z" name="Default suite" finished-at="2017-11-06T08:58:52Z" duration-ms="208666">
+    <groups>
+    </groups>
+    <test started-at="2017-11-06T08:55:23Z" name="Default test" finished-at="2017-11-06T08:58:52Z" duration-ms="208666">
+      <class name="cn.seleniumcn.api.WebdiverAPITest02">
+        <test-method signature="testWebdriverAPIs_partII()[pri:0, instance:cn.seleniumcn.api.WebdiverAPITest02@a1cdc6d]" started-at="2017-11-06T16:55:23Z" name="testWebdriverAPIs_partII" finished-at="2017-11-06T16:58:52Z" duration-ms="208570" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWebdriverAPIs_partII -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:cn.seleniumcn.api.WebdiverAPITest02@a1cdc6d]" started-at="2017-11-06T16:58:52Z" name="teardown" finished-at="2017-11-06T16:58:52Z" duration-ms="80" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- cn.seleniumcn.api.WebdiverAPITest02 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
